@@ -13,5 +13,7 @@ public class hello {
         System.out.println("ych");
         System.out.println("hhh");
         System.out.println("???");
+        System.out.println("123");
+        System.out.println("321");
     }
 }
