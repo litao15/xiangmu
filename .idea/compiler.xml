@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="xiangmu" />
         <module name="demo2" />
+        <module name="xiangmu" />
       </profile>
     </annotationProcessing>
   </component>
