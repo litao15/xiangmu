@@ -12,7 +12,5 @@ public class hello {
           System.out.println("malu");
                   System.out.println("liu");
         System.out.println("ych");
-        
-
     }
 }
