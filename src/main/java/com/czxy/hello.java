@@ -12,6 +12,7 @@ public class hello {
         System.out.println("xixixixixixixi");
         System.out.println("jjjjjj");
         System.out.println("刘昌燊是沙雕");
+          System.out.println("刘昌燊是沙雕哈哈哈哈哈哈哈");
 
     }
 }
